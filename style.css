@@ -10,10 +10,10 @@ body {
   display: block;
   text-align: right;
 }
-.header img {
+.header-picture {
   width: 100%;
 }
-.header .header-link {
+.header-link {
   font-family: fantasy, cursive;
 }
 
@@ -21,7 +21,7 @@ body {
 .header { text-align: center;
 }
 }
-.centered-main-page-element {
+.main-container {
   display: block;
   width: 500px;
   margin: 0 auto 0;
