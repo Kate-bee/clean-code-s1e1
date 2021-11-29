@@ -46,18 +46,18 @@ body {
 
 .incomplete-tasks,
 .completed-tasks {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
 .tasks-item,
 .main-container-title {
-  list-style:none;
+  list-style: none;
 }
 
 .tasks-input,
 .button{
-  outline:none;
+  outline: none;
 }
 
 .button {
@@ -161,14 +161,14 @@ button.button-del .main-picture:hover {
 
 /* Edit Task */
 .list .tasks-item .tasks-input[type=text] {
-  display:none
+  display: none
 }
 
 .list .tasks-item.edit-mode .tasks-input[type=text] {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .list .tasks-item.edit-mode .tasks-label {
-  display:none;
+  display: none;
 }
